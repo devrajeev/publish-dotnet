@@ -1,0 +1,5 @@
+﻿{
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "Data Source=shopdb.cdmy4ynwn4yw.ap-south-1.rds.amazonaws.com,1433;Initial Catalog=ShopDB;Integrated Security=False;Persist Security Info=False;User ID=admin;Password=Password#123",
+  "RawDataSettings": {}
+}
